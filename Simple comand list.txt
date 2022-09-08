@@ -1,0 +1,60 @@
+// Path ba directory dekhar jonno
+ pwd
+ 
+// Home er under a ki ki as a dekhar jonno
+ls
+
+// Desktop a jete chaile
+cd Desktop
+
+// Directory create korar jonno
+mkdir Sec_A
+
+// Duita Folder ak sath a Create korar jonno
+mkdir L1 L2    ( L1 L2 duita folder )
+
+// Folder ar mod a jodi duita string thak jemon Lab One 
+mkdir Lab\ \One
+
+// j kono directory theke sorasori home jaoyar jonno
+cd ~
+
+// Root a jete chaile 
+cd /
+
+// Screen clear korar jonno
+clear
+
+// Parrent orthat ager directory te asar jonno
+cd ..
+
+// File create korar jonno
+touch a.txt
+
+// File remove korar jonno
+rm a.txt
+
+// Folder remove korar jonno
+rm -r L1
+
+// Remove korte chai ki na 
+rm -r -i L2
+
+// Command gular kaj dekhar jonno
+man rm,man ls
+
+// Okhan theke ber howar jonno
+q press korte hobe
+
+// Clender dekte chaile
+cal
+
+// File create kor a sath a sath a kisu likte chaile 
+cat > a2.txt
+
+// Akhan theke ber hote hole 
+ctr + D press korte hobe
+
+// Create kora file ta dekhar jonno
+cat a2.txt
+
